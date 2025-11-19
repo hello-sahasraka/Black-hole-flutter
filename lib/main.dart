@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                     "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it. The boundary of a black hole is called the event horizon, beyond which events cannot affect an outside observer. Black holes are formed from the remnants of massive stars that have undergone gravitational collapse. They can grow larger by pulling in nearby gas, dust, and even entire stars. Scientists study black holes to learn more about gravity, time, and the deepest mysteries of the universe.",
                     textAlign: TextAlign.center,
                     style: TextStyle(
-                      color: const Color.fromARGB(177, 255, 255, 255),
+                      color: Color.fromARGB(177, 255, 255, 255),
                       fontSize: 16,
                     ),
                   ),
@@ -94,7 +94,7 @@ class MyApp extends StatelessWidget {
                     "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape from it. The boundary of a black hole is called the event horizon, beyond which events cannot affect an outside observer. Black holes are formed from the remnants of massive stars that have undergone gravitational collapse. They can grow larger by pulling in nearby gas, dust, and even entire stars. Scientists study black holes to learn more about gravity, time, and the deepest mysteries of the universe.",
                     textAlign: TextAlign.center,
                     style: TextStyle(
-                      color: const Color.fromARGB(177, 255, 255, 255),
+                      color: Color.fromARGB(177, 255, 255, 255),
                       fontSize: 16,
                     ),
                   ),
